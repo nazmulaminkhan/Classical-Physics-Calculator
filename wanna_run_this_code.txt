@@ -1,1 +1,3 @@
 to run this c++ physics calculator on your browser, visit this c++ web shell runner > https://rb.gy/anhx7a
+remember to copy the codes and paste on that website
+Thanks
